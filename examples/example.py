@@ -3,7 +3,7 @@ from bottleopenapi import OpenApi
 
 
 @get("/", summary="test", produces={'random': int})
-def example():  # auth argument is optional!
+def example():
     return "ok"
 
 
