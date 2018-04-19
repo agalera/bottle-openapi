@@ -32,7 +32,7 @@ setup(
     long_description=readme + "\n\n" + changelog,
     author='Alberto Galera Jimenez',
     author_email='galerajimenez@gmail.com',
-    url='https://github.com/kianxineki/bottle-openapi',
+    url='https://github.com/agalera/bottle-openapi',
     py_modules=['bottleopenapi'],
     include_package_data=True,
     install_requires=['bottle'],
